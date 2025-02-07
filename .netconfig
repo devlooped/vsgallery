@@ -96,11 +96,6 @@
 	sha = a8b208093599263b7f2d1fe3854634c588ea5199
 	etag = 19087699f05396205e6b050d999a43b175bd242f6e8fac86f6df936310178b03
 	weak
-[file "src/nuget.config"]
-	url = https://github.com/devlooped/oss/blob/main/src/nuget.config
-	sha = 354f54c22c9b1619221fba99b99ea1dc215266b4
-	etag = c200cff9d9ca61fe06b7d535b233cad330613c47b34433e8a117abbca4c34eb9
-	weak
 [file ".github/workflows/combine-prs.yml"]
 	url = https://github.com/devlooped/oss/blob/main/.github/workflows/combine-prs.yml
 	sha = c1610886eba42cb250e3894aed40c0a258cd383d
